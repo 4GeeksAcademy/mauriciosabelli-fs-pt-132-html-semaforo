@@ -1,7 +1,7 @@
 import {useState} from "react";
 
 const Semaforo = () => {
-    const [color, setColor] = useState("");
+    const [color, setColor] = useState("red");
  
      return (
          <div>
